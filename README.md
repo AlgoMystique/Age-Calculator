@@ -1,2 +1,12 @@
-# Age-Calculator
-This age calculator app created with CSS &amp; Javascript displays the exact age in years, months and days.
+# Age Calculator
+
+This is an age calculator that helps you determine your age based on your birthdate.
+
+## Live Demo
+
+You can try out the live demo [here](https://algomystique.github.io/Age-Calculator/).
+
+## Features
+
+- Calculate age in years, months, and days.
+- User-friendly interface.
